@@ -8,7 +8,7 @@ Projeyi kullanmak için aşağıdaki adımları takip edebilirsiniz:
 
 1. Terminali açın ve projenin kök dizinine gidin:
    ```bash
-   cd LinearRegression
+   cd BasicLinearRegression
    ```
 
 2. Derleme için bir klasör oluşturun ve içine girin:
